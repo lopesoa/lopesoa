@@ -1,6 +1,9 @@
 ### Olá, eu sou o André Lopes 👋
 
--✏️ Estou estudando a linguagem Flutter <img align="center" alt="Lopesoa-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+-✏️ Estou estudando a linguagem Flutter 
+<img align="center" alt="Lopesoa-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+<img align="center" alt="Lopesoa-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+
 
 ##
 
